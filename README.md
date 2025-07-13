@@ -1,4 +1,4 @@
-# Simple Loan Management System
+# Loan Management System
 
 A loan management application built with Django, SQLite3, JavaScript, HTML, CSS, and Bootstrap 5. The system enables customers to request loans after registration, with admin approval. Customers can make monthly loan payments, and both customers and admins have dedicated dashboards.
 
